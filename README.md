@@ -1,6 +1,6 @@
-# Odin Recipes
+# My Recipes
 
-This is the Odin Project "Recipes" project. The purpose of this project is to create a recipe website where I will showcase different recipes I enjoy or find interesting. This project will help me practice basic HTML and Git/GitHub workflow.
+This is the My first  Project "Recipes" project. The purpose of this project is to create a recipe website where I will showcase different recipes I enjoy or find interesting. This project will help me practice basic HTML and Git/GitHub workflow.
 
 ## Skills Demonstrated
 - HTML structure (using elements like headings, paragraphs, lists, links, and images).
