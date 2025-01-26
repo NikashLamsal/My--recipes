@@ -1,5 +1,6 @@
 # My Recipes
 
+<<<<<<< HEAD
 This is my basic web Project "Recipes" project. The purpose of this project was to create a recipe website to showcase different recipes I enjoy or find interesting. This project helped me practice and recall basic HTML, CSS, and Git/GitHub workflow.
 
 ## Skills Demonstrated
@@ -24,3 +25,20 @@ You can view the completed project by visiting the [live demo](#) or by cloning 
 ## Future Improvements
 - Add more recipes to expand the website.
 - Include JavaScript for interactivity, such as a recipe search feature or a rating system.
+=======
+This is the My first  Project "Recipes" project. The purpose of this project is to create a recipe website where I will showcase different recipes I enjoy or find interesting. This project will help me practice basic HTML and Git/GitHub workflow.
+
+## Skills Demonstrated
+- HTML structure (using elements like headings, paragraphs, lists, links, and images).
+
+- Using Git/GitHub for version control.
+
+- Structuring a basic web project with multiple pages.
+
+## Goals
+- Learn to create and structure a multi-page website.
+
+- Get comfortable working with Git and GitHub for version control.
+
+
+>>>>>>> fce9cc6f92bb1423fee68a86c742beeddec5db2f
