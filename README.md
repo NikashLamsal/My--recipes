@@ -1,5 +1,6 @@
-# My Recipes
-This is my basic web Project "Recipes". The purpose of this project was to create a recipe website to showcase different recipes I enjoy or find interesting. This project helped me practice and recall basic HTML, CSS, and Git/GitHub workflow.
+# My Recipes [![Preview](https://img.shields.io/badge/Live-Demo-brightgreen)](https://nikashlamsal.github.io/My--recipes/)
+
+This is my basic web project, "Recipes". The purpose of this project was to create a recipe website to showcase different recipes I enjoy or find interesting. This project helped me practice and recall basic HTML, CSS, and Git/GitHub workflow.
 
 ## Skills Demonstrated
 - **HTML**: Structured the website using elements like headings, paragraphs, lists, links, and images.
@@ -18,21 +19,8 @@ This is my basic web Project "Recipes". The purpose of this project was to creat
 - Improved my skills in HTML, CSS, and version control using Git and GitHub.
 
 ## Live Demo
-You can view the completed project by visiting the [live demo](https://nikashlamsal.github.io/My--recipes/).
+You can view the completed project by clicking the **Preview** button above.
 
 ## Future Improvements
 - Add more recipes to expand the website.
 - Include JavaScript for interactivity, such as a recipe search feature or a rating system.
-
-## Skills Demonstrated
-- HTML structure (using elements like headings, paragraphs, lists, links, and images).
-
-- Using Git/GitHub for version control.
-
-- Structuring a basic web project with multiple pages.
-
-## Goals
-- Learn to create and structure a multi-page website.
-
-- Get comfortable working with Git and GitHub for version control.
-
