@@ -1,5 +1,5 @@
 # My Recipes
-This is my basic web Project "Recipes" project. The purpose of this project was to create a recipe website to showcase different recipes I enjoy or find interesting. This project helped me practice and recall basic HTML, CSS, and Git/GitHub workflow.
+This is my basic web Project "Recipes". The purpose of this project was to create a recipe website to showcase different recipes I enjoy or find interesting. This project helped me practice and recall basic HTML, CSS, and Git/GitHub workflow.
 
 ## Skills Demonstrated
 - **HTML**: Structured the website using elements like headings, paragraphs, lists, links, and images.
