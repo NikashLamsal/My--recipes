@@ -1,4 +1,4 @@
-# My Recipes                                                [![Preview](https://img.shields.io/badge/🔗-Preview-%2325D366?style=for-the-badge)](https://nikashlamsal.github.io/My--recipes/)
+# My Recipes                                                [![Preview](https://img.shields.io/badge/🔗-Preview-blue?style=for-the-badge)](https://nikashlamsal.github.io/My--recipes/)
 
 This is my basic web project, "Recipes". The purpose of this project was to create a recipe website to showcase different recipes I enjoy or find interesting. This project helped me practice and recall basic HTML, CSS, and Git/GitHub workflow.
 
