@@ -1,6 +1,4 @@
-# My Recipes 
-
-<a href="https://nikashlamsal.github.io/My--recipes/" style="display: inline-block; padding: 10px 20px; font-size: 18px; font-weight: bold; text-decoration: none; color: white; background-color: blue; border-radius: 5px; transition: background-color 0.3s ease;" onmouseover="this.style.backgroundColor='darkblue'" onmouseout="this.style.backgroundColor='blue'">🔗 Preview</a>
+# My Recipes                            [![Preview](https://img.shields.io/badge/🔗-Preview-blue?style=for-the-badge)](https://nikashlamsal.github.io/My--recipes/)
 
 This is my basic web project, "Recipes". The purpose of this project was to create a recipe website to showcase different recipes I enjoy or find interesting. This project helped me practice and recall basic HTML, CSS, and Git/GitHub workflow.
 
