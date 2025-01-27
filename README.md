@@ -17,8 +17,8 @@ This is my basic web Project "Recipes". The purpose of this project was to creat
 - Styled the website using CSS.
 - Improved my skills in HTML, CSS, and version control using Git and GitHub.
 
-## How to View the Project
-You can view the completed project by visiting the [live demo](#) or by cloning this repository and opening the `index.html` file in your browser.
+## Live Demo
+You can view the completed project by visiting the [live demo](https://nikashlamsal.github.io/My--recipes/).
 
 ## Future Improvements
 - Add more recipes to expand the website.
